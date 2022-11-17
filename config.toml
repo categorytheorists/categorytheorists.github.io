@@ -1,3 +1,12 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Category Theorists'
+paginate = 3
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+theme = "HugoTeX"
+
+
+
+[Params]
+  darkmode = true
