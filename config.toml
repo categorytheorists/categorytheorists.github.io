@@ -9,4 +9,7 @@ theme = "archie"
 
 
 [Params]
-  darkmode = true
+  mode = "dark"
+  useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
+	mathjax = true # enable MathJax support
+	katex = true # enable KaTeX support
